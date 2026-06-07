@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/logo-mark-transparent.png" alt="HyperQuant Media" width="120" />
+<img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Company/logo-mark-transparent.png" alt="HyperQuant Media" width="120" />
 
 # HyperQuant Media LLP
 

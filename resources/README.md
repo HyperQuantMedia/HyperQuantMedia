@@ -2,6 +2,9 @@
 
 # resources/ — brand assets
 
+> Company logo files live in **`Company/`**. Reference them as
+> `resources/Company/<file>` (raw URL: `…/main/resources/Company/<file>`).
+
 Unified-naming logo library. Three families:
 
 ## `logo-mark-*` — the bare mark (icon, no text)
