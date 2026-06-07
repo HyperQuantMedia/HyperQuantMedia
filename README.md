@@ -50,10 +50,10 @@ Public project from the studio. &nbsp; `JavaScript`
 ## 🔒 Access & confidentiality
 
 Most HyperQuant Media repositories are **private**. Access is granted **under NDA**, with
-IP and copyright assignment; trademarks pending. By accepting access to any repo you are
-bound by our agreement — read it here: **[NDA.md](NDA.md)**.
+IP and copyright assignment; trademarks pending. **Accepting access to any HQM repository
+automatically binds you to our repository-access NDA.**
 
-To start a conversation or request access: **[bizdev@hyperquantmedia.com](mailto:bizdev@hyperquantmedia.com)**.
+To request access or a copy of the agreement: **[bizdev@hyperquantmedia.com](mailto:bizdev@hyperquantmedia.com)**.
 
 ---
 
