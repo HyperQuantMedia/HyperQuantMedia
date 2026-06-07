@@ -88,7 +88,10 @@ Public project from the studio. &nbsp; `JavaScript`
 **Tools**
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello">
+  <img src="https://img.shields.io/badge/GitHub_Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Projects">
   <img src="https://img.shields.io/badge/Hansoft-1E88E5?style=flat-square&logoColor=white" alt="Hansoft">
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" alt="Microsoft Office">
   <img src="https://img.shields.io/badge/FMOD-000000?style=flat-square&logoColor=white" alt="FMOD">
