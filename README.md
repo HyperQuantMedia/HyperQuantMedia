@@ -66,12 +66,32 @@ Public project from the studio. &nbsp; `JavaScript`
   <img src="https://img.shields.io/badge/Intel_VTune-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel VTune">
   <img src="https://img.shields.io/badge/Tracy-1A1A1A?style=flat-square&logoColor=white" alt="Tracy Profiler">
   <img src="https://img.shields.io/badge/Snapdragon_Profiler-3253DC?style=flat-square&logo=qualcomm&logoColor=white" alt="Qualcomm Snapdragon Profiler">
+  <img src="https://img.shields.io/badge/Arm_Profiler-0091BD?style=flat-square&logo=arm&logoColor=white" alt="Arm Profiler">
+  <img src="https://img.shields.io/badge/RenderDoc-2D2D2D?style=flat-square&logoColor=white" alt="RenderDoc">
 </p>
 
-**AI & CI**
+**AI**
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex">
+  <img src="https://img.shields.io/badge/Qwen-615CED?style=flat-square&logo=qwen&logoColor=white" alt="Qwen">
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFF?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
+</p>
+
+**Version control**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white" alt="Perforce">
+  <img src="https://img.shields.io/badge/Divergence-1F6FEB?style=flat-square&logoColor=white" alt="Divergence (bridged Git ↔ Perforce)">
+</p>
+
+**CI/CD**
+<p>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/Unreal_Horde-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Horde">
 </p>
 
 ---
