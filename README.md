@@ -36,16 +36,51 @@ Public project from the studio. &nbsp; `JavaScript`
 
 ## 🧱 Tech
 
+**Engines**
 <p>
   <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine">
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot">
+</p>
+
+**Graphics APIs**
+<p>
+  <img src="https://img.shields.io/badge/DirectX_12-107C10?style=flat-square&logo=microsoft&logoColor=white" alt="DirectX 12">
+  <img src="https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white" alt="Vulkan">
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL">
+</p>
+
+**Languages**
+<p>
   <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++20">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js 22">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell">
+</p>
+
+**Profiling & GPU tooling**
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA_Nsight-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Nsight">
+  <img src="https://img.shields.io/badge/PIX-5C2D91?style=flat-square&logo=microsoft&logoColor=white" alt="PIX">
+  <img src="https://img.shields.io/badge/Intel_VTune-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel VTune">
+  <img src="https://img.shields.io/badge/Tracy-1A1A1A?style=flat-square&logoColor=white" alt="Tracy Profiler">
+  <img src="https://img.shields.io/badge/Snapdragon_Profiler-3253DC?style=flat-square&logo=qualcomm&logoColor=white" alt="Qualcomm Snapdragon Profiler">
+</p>
+
+**AI & CI**
+<p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
+
+---
+
+<div align="center">
+
+🌌 *Somewhere off the charted trail, we stack **Cairns** — cooking cosmic, celestial stars from stone, signal, and patience. The constellation isn't lit yet. Watch the sky.*
+
+</div>
 
 ## 🔒 Access & confidentiality
 
