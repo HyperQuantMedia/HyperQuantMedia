@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/logo-mark-transparent.png" alt="HyperQuant Media" width="130" />
+<img src="https://raw.githubusercontent.com/HyperQuantMedia/HyperQuantMedia/main/resources/Company/logo-mark-transparent.png" alt="HyperQuant Media" width="130" />
 
 # HyperQuant Media LLP
 
@@ -43,9 +43,21 @@ Public project from the studio. &nbsp; `JavaScript`
   <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot">
 </p>
 
+**Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Steam_Deck-1A9FFF?style=flat-square&logo=steamdeck&logoColor=white" alt="Steam Deck">
+  <img src="https://img.shields.io/badge/PlayStation-003791?style=flat-square&logo=playstation&logoColor=white" alt="PlayStation">
+  <img src="https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white" alt="Xbox">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS">
+</p>
+
 **Graphics APIs**
 <p>
   <img src="https://img.shields.io/badge/DirectX_12-107C10?style=flat-square&logo=microsoft&logoColor=white" alt="DirectX 12">
+  <img src="https://img.shields.io/badge/DirectX_11-107C10?style=flat-square&logo=microsoft&logoColor=white" alt="DirectX 11">
+  <img src="https://img.shields.io/badge/HLSL-5C2D91?style=flat-square&logoColor=white" alt="HLSL">
   <img src="https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white" alt="Vulkan">
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL">
 </p>
@@ -53,10 +65,13 @@ Public project from the studio. &nbsp; `JavaScript`
 **Languages**
 <p>
   <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++20">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js 22">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell">
+  <img src="https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white" alt="XML">
 </p>
 
 **Profiling & GPU tooling**
@@ -68,6 +83,15 @@ Public project from the studio. &nbsp; `JavaScript`
   <img src="https://img.shields.io/badge/Snapdragon_Profiler-3253DC?style=flat-square&logo=qualcomm&logoColor=white" alt="Qualcomm Snapdragon Profiler">
   <img src="https://img.shields.io/badge/Arm_Profiler-0091BD?style=flat-square&logo=arm&logoColor=white" alt="Arm Profiler">
   <img src="https://img.shields.io/badge/RenderDoc-2D2D2D?style=flat-square&logoColor=white" alt="RenderDoc">
+</p>
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Hansoft-1E88E5?style=flat-square&logoColor=white" alt="Hansoft">
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" alt="Microsoft Office">
+  <img src="https://img.shields.io/badge/FMOD-000000?style=flat-square&logoColor=white" alt="FMOD">
 </p>
 
 **AI**
