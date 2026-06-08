@@ -2,6 +2,13 @@
 
 # resources/ — brand assets
 
+> **⚠️ Proprietary brand assets — not for replication.** These logos, marks, banners,
+> wordmarks, and icons are the exclusive property of **HyperQuant Media LLP**. They may
+> **not** be copied, reproduced, modified, redistributed, or reused in any form, in whole
+> or in part, without prior written permission. **© 2026 HyperQuant Media LLP. All rights
+> reserved. Trademarks, logos, and trade dress are reserved** and remain the property of
+> HyperQuant Media LLP regardless of where they appear.
+
 > Company logo files live in **`Company/`**. Reference them as
 > `resources/Company/<file>` (raw URL: `…/main/resources/Company/<file>`).
 
@@ -32,6 +39,17 @@ Unified-naming logo library. Three families:
 | `logo-wordmark-1089x512.png` | 1089×512 | dark-background headers (large) |
 
 > Wordmark text is **white** — only shows on dark backgrounds.
+
+## `banner-*` — social / profile banners (in subfolders)
+
+| File | Dimensions | Use |
+|---|---|---|
+| `Github/banner-github-1280x640-Final.jpg` | 1280×640 | GitHub org profile README hero + repo social preview |
+| `linkedIn/banner-linkedin-1128x191.png` | 1128×191 | LinkedIn company cover |
+
+> Banners are a cosmic scene with the locked HQ monogram centered. **The monogram
+> silhouette must never be mutated** — only masked/restyled. `.jpg` used for Markdown/web
+> placements (widely supported, small); `.png` kept as lossless source.
 
 ## Naming rules
 
