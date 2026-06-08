@@ -32,6 +32,8 @@ We run as an **Adaptive Studio**: leadership is earned, not owned; quality is th
 ### [Kingshot-Island-Architect](https://github.com/HyperQuantMedia/Kingshot-Island-Architect) · [🌐 Live](https://hyperquantmedia.github.io/Kingshot-Island-Architect/)
 A quick community side-tool for **Oasis island-stitching** in the game [Kingshot](https://www.centurygames.com/games/kingshot/).
 
+> 🌐 **Live access:** [hyperquantmedia.github.io/Kingshot-Island-Architect](https://hyperquantmedia.github.io/Kingshot-Island-Architect/) — runs right in your browser, no install.
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 
 > Most of our product and client work is **private** (see *Access & confidentiality* below).
