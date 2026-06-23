@@ -62,19 +62,19 @@ A quick community side-tool for **Oasis island-stitching** in the game [Kingshot
 &nbsp;<img src="https://img.shields.io/badge/Platform-Cross--Platform-94a3b8?style=flat-square" alt="Platform"></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/HyperQuantMedia/HQM-Polaris"><img src="resources/Projects/Polaris/HQM-Polaris-final_256x256.png" width="76"></a><br><sub><b>Polaris</b></sub></td>
+<td align="center"><a href="https://github.com/HyperQuantMedia/HQM-Polaris"><img src="resources/Projects/Polaris/HQM-Polaris-Final_256x256.png" width="76"></a><br><sub><b>Polaris</b></sub></td>
 <td><i>A fixed light in a moving sky. We steer by it; we don't explain it.</i><br><br>
 <img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
 &nbsp;<img src="https://img.shields.io/badge/Type-Plugin-c084fc?style=flat-square" alt="Type"></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/HyperQuantMedia/ClaudeCairn"><img src="resources/Projects/Cairn/Cairn_256x256.png" width="76"></a><br><sub><b>Cairn</b></sub></td>
+<td align="center"><a href="https://github.com/HyperQuantMedia/ClaudeCairn"><img src="resources/Projects/Cairn/HQM-Cairn-Final_256x256.png" width="76"></a><br><sub><b>Cairn</b></sub></td>
 <td><i>Stones set toward what we can't see yet.</i><br><br>
 <img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
 &nbsp;<img src="https://img.shields.io/badge/Type-System%20%2B%20Plugin-c084fc?style=flat-square" alt="Type"></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/HyperQuantMedia/ClaudeDocuTale"><img src="resources/Projects/DocuTale/Docutale_256x256.png" width="76"></a><br><sub><b>DocuTale</b></sub></td>
+<td align="center"><a href="https://github.com/HyperQuantMedia/ClaudeDocuTale"><img src="resources/Projects/DocuTale/HQM-DocuTale-Final_256x256.png" width="76"></a><br><sub><b>DocuTale</b></sub></td>
 <td><i>It lifts the fog — over what, we won't yet say.</i><br><br>
 <img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
 &nbsp;<img src="https://img.shields.io/badge/Type-Plugin-c084fc?style=flat-square" alt="Type"></td>
@@ -83,10 +83,11 @@ A quick community side-tool for **Oasis island-stitching** in the game [Kingshot
 <td align="center"><a href="https://github.com/HyperQuantMedia/HQM-Quartermaster"><img src="resources/Projects/Quartermaster/HQM-Quartermaster-Final_256x256.png" width="76"></a><br><sub><b>Quartermaster</b></sub></td>
 <td><i>Something keeps the count in the dark. Ask no more.</i><br><br>
 <img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
-&nbsp;<img src="https://img.shields.io/badge/Type-Tool%20Suite-c084fc?style=flat-square" alt="Type"></td>
+&nbsp;<img src="https://img.shields.io/badge/Type-Tool%20Suite-c084fc?style=flat-square" alt="Type"><br><br>
+<img src="resources/Projects/Quartermaster/Tools/Resources/IconForge/HQM-IconForge-Final_256x256.png" width="28" align="top">&nbsp;<sub><b>IconForge</b></sub>&nbsp;&nbsp;&nbsp;&nbsp;<img src="resources/Projects/Quartermaster/Tools/Resources/Lightspeed/HQM-LightSpeed-Final_256x256.png" width="28" align="top">&nbsp;<sub><b>Lightspeed</b></sub></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/HyperQuantMedia/Veins-of-Nexus"><img src="resources/Projects/VeinsOfNexus/VeinsOfNexus_Final_256x256.png" width="76"></a><br><sub><b>Veins of Nexus</b></sub></td>
+<td align="center"><a href="https://github.com/HyperQuantMedia/Veins-of-Nexus"><img src="resources/Projects/VeinsOfNexus/VeinsOfNexus-Final_256x256.png" width="76"></a><br><sub><b>Veins of Nexus</b></sub></td>
 <td><i>Beneath the stone, a red heart beats. We have not woken it yet.</i><br><br>
 <img src="https://img.shields.io/badge/Status-In%20Development-4ade80?style=flat-square" alt="Status">
 &nbsp;<img src="https://img.shields.io/badge/Engine-Unity-c084fc?style=flat-square" alt="Engine">
